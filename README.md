@@ -12,7 +12,7 @@ Example:
 - IF YOU HAVE PYTHON INSTALLED, SKIP TO STEP 3!
 - STEP 1: Install Python. You can install it via Microsoft Store, or thru their official Download page: https://www.python.org/downloads/
 - STEP 2: Open Command Promp and Navigate to this folder, eg. "`cd C:\Users\FuroFloof\Downloads\WPlaceOverlay\`"
-- STEP 3: Run the Command: "pip install PyQt6"
+- STEP 3: Run the Command: "pip install PyQt6" and if that does not work, run "py -m pip install PyQt6"
 - STEP 4: Then run python overlay.py or double-click the overlay.py file!
 
 ## Usage
